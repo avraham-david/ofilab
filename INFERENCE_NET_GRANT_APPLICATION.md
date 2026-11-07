@@ -10,7 +10,7 @@ This document contains the complete, pre-formatted application text to submit to
 * **Contact Email**: avraham@ofilab.avrahamd.ovh / your-email@domain.com
 * **Project Name**: ofiLab Core (`ofilab-core`)
 * **Project Type**: Novel Applications & Developer Tools / Testing Frameworks
-* **Open Source Repository**: `https://github.com/avraham-d/ofilab-core` (or target GitHub URL)
+* **Open Source Repository**: `https://github.com/avraham-david/ofilab`
 * **Live Production Application**: `https://ofilab.avrahamd.ovh`
 * **Target Model on Inference.net**: `deepseek-v4.1-flash-1017` / DeepSeek MoE family
 

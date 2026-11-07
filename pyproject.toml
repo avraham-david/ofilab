@@ -44,7 +44,7 @@ dev = [
 
 [project.urls]
 Homepage = "https://ofilab.avrahamd.ovh"
-Repository = "https://github.com/avraham-d/ofilab-core"
+Repository = "https://github.com/avraham-david/ofilab"
 Documentation = "https://ofilab.avrahamd.ovh"
 
 [tool.pytest.ini_options]

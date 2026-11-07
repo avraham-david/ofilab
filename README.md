@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![CI Verification](https://github.com/avraham-d/ofilab-core/actions/workflows/ci.yml/badge.svg)](https://github.com/avraham-d/ofilab-core/actions)
+[![CI Verification](https://github.com/avraham-david/ofilab/actions/workflows/ci.yml/badge.svg)](https://github.com/avraham-david/ofilab/actions)
 [![Infrastructure: Inference.net](https://img.shields.io/badge/Inference-Inference.net-orange.svg)](https://inference.net)
 [![Target Model](https://img.shields.io/badge/Target-DeepSeek--V4.1--Flash-purple.svg)](https://inference.net)
 
