@@ -1,0 +1,3 @@
+# ofiLab Core Runtime Dependencies
+# Core scoring, prompt synthesis, and API client use only the Python Standard Library (math, urllib, dataclasses, json).
+# No external runtime dependencies required.
